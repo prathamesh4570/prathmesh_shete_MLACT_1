@@ -1,10 +1,10 @@
 # prathmesh_shete_MLACT_1# CIE 2 – Activity 1: Multiple Linear Regression Worksheet
 
-**Student Name:** Sujay Rajendra Dharu  
-**Roll Number:** AD3360  
+**Student Name:** Prathmesh Shete
+**Roll Number:** AD3326  
 **Course:** Regression and Classification Algorithms (T.Y. B.Tech AI & DS, Semester V)  
 **Department:** Artificial Intelligence & Data Science, Zeal College of Engineering and Research, Pune  
-**Submission GitHub ID:** [https://github.com/complexiota](https://github.com/complexiota)
+
 
 ---
 
